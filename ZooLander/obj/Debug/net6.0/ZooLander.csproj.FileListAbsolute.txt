@@ -1,0 +1,15 @@
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\obj\Debug\net6.0\ZooLander.csproj.AssemblyReference.cache
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\obj\Debug\net6.0\ZooLander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\obj\Debug\net6.0\ZooLander.AssemblyInfoInputs.cache
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\obj\Debug\net6.0\ZooLander.AssemblyInfo.cs
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\obj\Debug\net6.0\ZooLander.csproj.CoreCompileInputs.cache
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\bin\Debug\net6.0\ZooLander.exe
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\bin\Debug\net6.0\ZooLander.deps.json
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\bin\Debug\net6.0\ZooLander.runtimeconfig.json
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\bin\Debug\net6.0\ZooLander.dll
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\bin\Debug\net6.0\ZooLander.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\obj\Debug\net6.0\ZooLander.dll
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\obj\Debug\net6.0\refint\ZooLander.dll
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\obj\Debug\net6.0\ZooLander.pdb
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\obj\Debug\net6.0\ZooLander.genruntimeconfig.cache
+C:\Users\Danil\OneDrive\Рабочий стол\BackEnd\KP\ZooLander\obj\Debug\net6.0\ref\ZooLander.dll
